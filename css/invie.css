@@ -24,7 +24,7 @@ body {
 .button {
     border-radius: 5px;
     border: none;
-    background: #fd324e;
+    background: #fd334e;
     color: white;
     padding: 7px;
 }
@@ -56,7 +56,7 @@ body {
 }
 
 .portada {
-    background-image: url('../img/background.png');
+    background-image: url('muchos-perros.jpg');
     color: white;
     padding: 20px;
 }
